@@ -1,3 +1,7 @@
+<p align="center"><img src="assets/rig-banner.svg" width="1280" alt="XNODE — RED └•TEAM•┐ lab™"></p>
+
+[Штаб лаборатории](https://github.com/Xnode-sh/RED-TEAM-LAB) · [Профиль XNODE](https://github.com/Xnode-sh)
+
 # wifi-audit
 
 Аудитор паролей Wi-Fi. Проверяет пароль на слабость: словарь топ-10000, паттерны дат/лет/последовательностей, русские имена, энтропия.
@@ -50,3 +54,11 @@ dict-top10000.txt   словарь топ-10000 паролей
 ```
 
 > ⚠️ Это не полный перебор WPA-PSK. Для брутфорса — hashcat + rockyou.
+
+<img src="assets/rig-divider.svg" width="1280" alt="">
+
+## Инженерный процесс лаборатории
+
+`PLAN → ISSUE → BRANCH → WORK → TEST → PR → REVIEW → MERGE`
+
+Команда: **RIG / KAI / NOVA**. NODE — фирменный маскот. [Правила работы](https://github.com/Xnode-sh/RED-TEAM-LAB/blob/main/WORKFLOW.md).
