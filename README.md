@@ -4,6 +4,8 @@
 
 # wifi-audit
 
+<p align="center"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/stdlib-3776AB?style=flat-square" alt="stdlib"> <img src="https://img.shields.io/badge/Wi--Fi-1a73e8?style=flat-square&logo=wifi&logoColor=white" alt="Wi-Fi"></p>
+
 Аудитор паролей Wi-Fi. Проверяет пароль на слабость: словарь топ-10000, паттерны дат/лет/последовательностей, русские имена, энтропия.
 
 Только **Python stdlib** — никаких зависимостей.
@@ -61,4 +63,4 @@ dict-top10000.txt   словарь топ-10000 паролей
 
 `PLAN → ISSUE → BRANCH → WORK → TEST → PR → REVIEW → MERGE`
 
-Команда: **RIG / KAI / NOVA**. NODE — фирменный маскот. [Правила работы](https://github.com/Xnode-sh/RED-TEAM-LAB/blob/main/WORKFLOW.md).
+Команда: **FREYA / LIRA / KRIPTO**. NODE — фирменный маскот. [Правила работы](https://github.com/Xnode-sh/RED-TEAM-LAB/blob/main/WORKFLOW.md).
