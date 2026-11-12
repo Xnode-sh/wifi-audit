@@ -1,3 +1,5 @@
+# SPDX-License-Identifier: MIT
+# Copyright (c) 2026 Xnode-sh — RED └•TEAM•┐ lab™
 import getpass
 import math
 import re
