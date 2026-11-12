@@ -18,3 +18,8 @@ desktop.ini
 .idea/
 .vscode/
 *.swp
+
+# Secrets
+.env
+.env.*
+!.env.example
